@@ -5,8 +5,10 @@ Construção de um módulo comportamental (behavioral) implementando a expressã
 ---
 
 Expressões utilizadas: 
-SUM = C-IN XOR (A XOR B)
-COUT = A B + B C-IN + A C-IN
+
+**SUM** = C-IN XOR (A XOR B)
+
+**COUT** = A B + B C-IN + A C-IN
 
 Fonte: https://www.geeksforgeeks.org/full-adder-in-digital-logic/
 
