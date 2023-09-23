@@ -12,4 +12,4 @@ Expressões utilizadas:
 
 Fonte: https://www.geeksforgeeks.org/full-adder-in-digital-logic/
 
-Circuito: circuit.circ (abrir no Logisim) / circuit.png
+Circuito: 8bit_full-adder.circ (abrir no Logisim) / 1bit_fulladder_circ.png / 8bit_fulladder_circ.png
